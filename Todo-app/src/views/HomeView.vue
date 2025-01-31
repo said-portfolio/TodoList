@@ -1,7 +1,7 @@
 <script setup lang="ts">
-import HeaderComponent from '@/components/HeaderComponent.vue'
+import TodoListItem from '@/components/TodoListItem.vue';
 </script>
 
 <template>
-  <HeaderComponent />
+  <TodoListItem />
 </template>
